@@ -15,6 +15,3 @@ teams.
   Electron app
 - Contributions to [anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript/pull/471),
   [bpmn-io/dmn-js](https://github.com/bpmn-io/dmn-js/pull/210), Backbone and Marionette
-
-Most of my recent work (a process-automation platform, self-hosted agents, Rust systems) is private client work.
-Happy to walk through it.
